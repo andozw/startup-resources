@@ -6,6 +6,7 @@ My list of startup resources that I enjoy.
 
 - [Blogs and Articles](#blogs-and-articles)
 - [Podcasts](#podcasts)
+- [Resources and Collections](#resources-and-collections)
 
 ### Blogs and Articles
 - [THE PMARCA GUIDE TO STARTUPS](http://pmarchive.com/) - Marc Andreessen's guide to startups (Parts 1 to 9)
@@ -19,3 +20,7 @@ My list of startup resources that I enjoy.
 - [Startup Grind](http://www.startupgrind.com/podast) - Inspiring stories from startup founders
 - [Bootstrapped with Kids](http://www.bootstrappedwithkids.com/) - Another bootstrapper focused podcast. Actionable tips and entertaining discussion.
 - [Product People](http://productpeople.tv/) - Interviews with tips focused on product
+
+### Resources and Collections
+- [300-awesome-free-things](https://medium.com/everything-about-startups-and-entrepreneurship/300-awesome-free-things-e07b3cd5fd5b) - Curated collection of all things startup
+
