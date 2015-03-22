@@ -22,5 +22,7 @@ My list of startup resources that I enjoy.
 - [Product People](http://productpeople.tv/) - Interviews with tips focused on product
 
 ### Resources and Collections
-- [300-awesome-free-things](https://medium.com/everything-about-startups-and-entrepreneurship/300-awesome-free-things-e07b3cd5fd5b) - Curated collection of all things startup
+- [Startup Stash](http://startupstash.com/) - "A curated directory of resources & tools to help you build your Startup"
+- [300 awesome free things](https://medium.com/everything-about-startups-and-entrepreneurship/300-awesome-free-things-e07b3cd5fd5b) - Curated collection of all things startup
+- [iconmelon](http://iconmelon.com/) - Free SVG icons
 
