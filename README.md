@@ -7,6 +7,7 @@ My list of startup resources that I enjoy.
 - [Blogs and Articles](#blogs-and-articles)
 - [Podcasts](#podcasts)
 - [Resources and Collections](#resources-and-collections)
+- [SEO](#seo)
 
 ### Blogs and Articles
 - [THE PMARCA GUIDE TO STARTUPS](http://pmarchive.com/) - Marc Andreessen's guide to startups (Parts 1 to 9)
@@ -26,4 +27,10 @@ My list of startup resources that I enjoy.
 - [300 awesome free things](https://medium.com/everything-about-startups-and-entrepreneurship/300-awesome-free-things-e07b3cd5fd5b) - Curated collection of all things startup
 - [iconmelon](http://iconmelon.com/) - Free SVG icons
 - [Stock photos](http://bootstrapbay.com/blog/free-stock-photos/) - Stock photos from 15 sites
+
+### SEO
+- [MOZ Guide to SEO](http://moz.com/beginners-guide-to-seo) - Beginners guide to SEO
+- [Buffer Guide to SEO](https://blog.bufferapp.com/beginners-guide-to-seo) - Complete beginners guide to SEO
+- [KISSmetrics Webmaster tools guide](https://blog.kissmetrics.com/google-webmaster-tools-2012/) - 2012 Guide to Google Webmaster Tools
+
 
