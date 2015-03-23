@@ -25,4 +25,5 @@ My list of startup resources that I enjoy.
 - [Startup Stash](http://startupstash.com/) - "A curated directory of resources & tools to help you build your Startup"
 - [300 awesome free things](https://medium.com/everything-about-startups-and-entrepreneurship/300-awesome-free-things-e07b3cd5fd5b) - Curated collection of all things startup
 - [iconmelon](http://iconmelon.com/) - Free SVG icons
+- [Stock photos](http://bootstrapbay.com/blog/free-stock-photos/) - Stock photos from 15 sites
 
