@@ -16,6 +16,9 @@ My list of startup resources that I enjoy.
 - [Startup Advice](http://www.bothsidesofthetable.com/on-entrepeneurship/) - More from msuster on how to make it work. No bs.
 - [How to start a startup](http://paulgraham.com/start.html) - Paul Graham
 
+### Videos
+- [How to start a startup](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg) - Stanford's CS 183B How to Start a Startup Series
+
 ### Podcasts
 - [Startups for the rest of us](http://www.startupsfortherestofus.com/) - More single founder and bootstrapper focused.
 - [Startup Grind](http://www.startupgrind.com/podast) - Inspiring stories from startup founders
