@@ -15,6 +15,7 @@ My list of startup resources that I enjoy.
 - [Entrepreneur DNA](http://www.bothsidesofthetable.com/entrepreneur-dna/) - Mark Suster's assessment on what it takes to be a successful entrepreneur.
 - [Startup Advice](http://www.bothsidesofthetable.com/on-entrepeneurship/) - More from msuster on how to make it work. No bs.
 - [How to start a startup](http://paulgraham.com/start.html) - Paul Graham
+- [How Andreessen Horowitz Evaluates CEOs](http://www.bhorowitz.com/how_andreessen_horowitz_evaluates_ceos) - How Andreesen Horowitz evaluates CEOs
 
 ### Videos
 - [How to start a startup](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg) - Stanford's CS 183B How to Start a Startup Series
