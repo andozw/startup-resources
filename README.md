@@ -16,6 +16,7 @@ My list of startup resources that I enjoy.
 - [Startup Advice](http://www.bothsidesofthetable.com/on-entrepeneurship/) - More from msuster on how to make it work. No bs.
 - [How to start a startup](http://paulgraham.com/start.html) - Paul Graham
 - [How Andreessen Horowitz Evaluates CEOs](http://www.bhorowitz.com/how_andreessen_horowitz_evaluates_ceos) - How Andreesen Horowitz evaluates CEOs
+- [Start Small, Get Big](http://www.softwarebyrob.com/email/) - Rob Walling's collection of blog articles focused at bootstrappers (behind email signup)
 
 ### Videos
 - [How to start a startup](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg) - Stanford's CS 183B How to Start a Startup Series
