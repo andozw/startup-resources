@@ -8,6 +8,7 @@ My list of startup resources that I enjoy.
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Resources and Collections](#resources-and-collections)
+- [Books](#books)
 - [SEO](#seo)
 
 ### Blogs and Articles
@@ -33,6 +34,9 @@ My list of startup resources that I enjoy.
 - [300 awesome free things](https://medium.com/everything-about-startups-and-entrepreneurship/300-awesome-free-things-e07b3cd5fd5b) - Curated collection of all things startup
 - [iconmelon](http://iconmelon.com/) - Free SVG icons
 - [Stock photos](http://bootstrapbay.com/blog/free-stock-photos/) - Stock photos from 15 sites
+
+### Books
+- [The Hard Thing About Hard Things](http://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/ref=sr_1_1) - Ben Horowitz. Must Read. Practical wisdom and advice from his years of experience as co-founder and VC. 
 
 ### SEO
 - [MOZ Guide to SEO](http://moz.com/beginners-guide-to-seo) - Beginners guide to SEO
