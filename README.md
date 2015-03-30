@@ -5,6 +5,7 @@ My list of startup resources that I enjoy.
 
 
 - [Blogs and Articles](#blogs-and-articles)
+- [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Resources and Collections](#resources-and-collections)
 - [SEO](#seo)
