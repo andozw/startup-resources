@@ -39,6 +39,7 @@ My list of startup resources that I enjoy.
 - [The Hard Thing About Hard Things](http://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/ref=sr_1_1) - Ben Horowitz. Must Read. Practical wisdom and advice from his years of experience as co-founder and VC. 
 - [Hatching Twitter](http://www.amazon.com/Hatching-Twitter-Story-Friendship-Betrayal/dp/1591847087) - A journey through the twists and turns of Twitter. Fun read that makes you want to start a startup.
 - [Traction - A startup guide to getting customers](http://www.amazon.com/Gabriel-Weinberg/e/B00HTOEH0E/ref=sr_ntt_srch_lnk_2) - Gabriel Weinburg (duckduckgo) an overview of different traction channels.
+- [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898/ref=pd_sim_b_4) - Eric Reis, launch your startup with continuous testing and iterative improvements. 
  
 
 ### SEO
