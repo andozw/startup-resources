@@ -40,7 +40,7 @@ My list of startup resources that I enjoy.
 - [Hatching Twitter](http://www.amazon.com/Hatching-Twitter-Story-Friendship-Betrayal/dp/1591847087) - A journey through the twists and turns of Twitter. Fun read that makes you want to start a startup.
 - [Traction - A startup guide to getting customers](http://www.amazon.com/Gabriel-Weinberg/e/B00HTOEH0E/ref=sr_ntt_srch_lnk_2) - Gabriel Weinburg (duckduckgo) an overview of different traction channels.
 - [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898/ref=pd_sim_b_4) - Eric Reis, launch your startup with continuous testing and iterative improvements. 
-[Lean Analytics](http://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/1449335675) - The startup metrics that matter and how to use data to make sure you build something people want. 
+- [Lean Analytics](http://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/1449335675) - The startup metrics that matter and how to use data to make sure you build something people want. 
 
 ### SEO
 - [MOZ Guide to SEO](http://moz.com/beginners-guide-to-seo) - Beginners guide to SEO
