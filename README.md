@@ -25,6 +25,7 @@ My list of startup resources that I enjoy.
 
 ### Podcasts
 - [Startups for the rest of us](http://www.startupsfortherestofus.com/) - More single founder and bootstrapper focused.
+- [The Tropical MBA](http://www.tropicalmba.com/podcasts/) - Location independent entrepreneurs. Think 4-hour work week in action. Not tech heavy.
 - [Startup Grind](http://www.startupgrind.com/podast) - Inspiring stories from startup founders
 - [Bootstrapped with Kids](http://www.bootstrappedwithkids.com/) - Another bootstrapper focused podcast. Actionable tips and entertaining discussion.
 - [Product People](http://productpeople.tv/) - Interviews with tips focused on product
