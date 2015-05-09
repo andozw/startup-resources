@@ -41,6 +41,7 @@ My list of startup resources that I enjoy.
 - [Traction - A startup guide to getting customers](http://www.amazon.com/Gabriel-Weinberg/e/B00HTOEH0E/ref=sr_ntt_srch_lnk_2) - Gabriel Weinburg (duckduckgo) an overview of different traction channels.
 - [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898/ref=pd_sim_b_4) - Eric Reis, launch your startup with continuous testing and iterative improvements. 
 - [Lean Analytics](http://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/1449335675) - The startup metrics that matter and how to use data to make sure you build something people want. 
+- [Startupland](http://www.amazon.com/Startupland-Risked-Everything-Global-Business/dp/1118980816) - The zendesk story by Mikkel Svane.
 
 ### SEO
 - [MOZ Guide to SEO](http://moz.com/beginners-guide-to-seo) - Beginners guide to SEO
